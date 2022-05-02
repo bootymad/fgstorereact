@@ -171,6 +171,7 @@
 .cart-item {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     width: inherit;
     border: 1px solid lightgray;
     margin-top: 1rem;
@@ -191,5 +192,5 @@
 .cart-item .product-total {
     min-width: 50px;
     /* background-color: aliceblue; */
-    text-align: right;
+    
 }
